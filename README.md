@@ -28,7 +28,11 @@ Businesses often need to answer questions such as:
 
 ## Dashboard & Visualizations
 - Power BI dashboards visualize revenue, customer behavior, product performance, and subscription trends.  
-- Screenshots are included in this repository for reference.
+![Dashboard Overview](Screenshots/dashboard_overview.png)
+
+The full Power BI dashboard file is available for download:
+[Download Power BI Dashboard](customer_behavior_analysis.pbix)
+
 
 ## Conclusion
 This project demonstrates an end-to-end customer behavior analysis using Python for data cleaning, SQL for querying and analysis, and Power BI for visualization. The insights provide actionable recommendations to improve customer retention, optimize marketing strategies, and increase revenue.
